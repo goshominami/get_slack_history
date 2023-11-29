@@ -1,0 +1,2 @@
+# get_slack_history
+slackAPIを用いたslackのメッセージ取得
